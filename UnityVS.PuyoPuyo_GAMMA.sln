@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.PuyoPuyo_GAMMA.CSharp", "UnityVS.PuyoPuyo_GAMMA.CSharp.csproj", "{C59E43F6-0D89-8774-FDA0-EDE1051895A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.PuyoPuyo_GAMMA.CSharp.Editor", "UnityVS.PuyoPuyo_GAMMA.CSharp.Editor.csproj", "{60B384E5-5B8A-3823-104F-7BFCF610B8E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C59E43F6-0D89-8774-FDA0-EDE1051895A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C59E43F6-0D89-8774-FDA0-EDE1051895A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C59E43F6-0D89-8774-FDA0-EDE1051895A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C59E43F6-0D89-8774-FDA0-EDE1051895A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60B384E5-5B8A-3823-104F-7BFCF610B8E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60B384E5-5B8A-3823-104F-7BFCF610B8E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60B384E5-5B8A-3823-104F-7BFCF610B8E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60B384E5-5B8A-3823-104F-7BFCF610B8E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

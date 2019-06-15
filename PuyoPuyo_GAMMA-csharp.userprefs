@@ -1,0 +1,29 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../UnityProject/COLORCODE/Assets/Scripts/BaseCharacterController.cs">
+    <Files>
+      <File FileName="../../../UnityProject/COLORCODE/Assets/Scripts/BaseCharacterController.cs" Line="79" Column="4" />
+      <File FileName="../../Savanna_WildKingdom/Assets/ProjectFolder/Scripts/UITweenManager.cs" Line="9" Column="29" />
+      <File FileName="../../Savanna_WildKingdom/Assets/ProjectFolder/Scripts/HeaderManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/InputManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PuzzleDrop.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/dropDestroyEffectManager.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp-vs" expanded="True">
+            <Node name="Scripts" expanded="True">
+              <Node name="PuzzleDrop.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
